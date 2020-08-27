@@ -1,0 +1,16 @@
+{
+  "name": "nova",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Axmet",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "proton-io": "0.0.6",
+    "wio.db": "^3.0.9"
+  }
+}
